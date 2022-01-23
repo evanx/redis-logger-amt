@@ -17,6 +17,6 @@
     "cli-color": "^1.1.0",
     "lodash": "^4.17.4",
     "multi-exec-async": "^0.2.0",
-    "redis": "^2.8.0"
+    "redis": "^4.0.2"
   }
 }
